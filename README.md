@@ -40,31 +40,16 @@ Reference characteristic curve from the supplied lab record.
 7. Reverse the anode supply polarity and vary the reverse voltage in steps. Note the corresponding reverse current values.
 8. Plot the forward and reverse characteristics using the tabulated values and determine the SCR forward resistance from the graph.
 9. Repeat the procedure for another suitable gate current (for example, IG = 1.2 mA) and verify the characteristics.
-8. OBSERVATION / TABULATION
-Gate current, IG: 0.7 mA
-VAK (V)	IAK (mA)
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-9. CALCULATIONS / GRAPH
-Forward breakover voltage, VBO = 11.5 V (from the recorded observation).
-Holding voltage, VH ≈ 0.72 V (from the recorded observation).
-Holding current, IH ≈ 12.4 mA (as recorded in the supplied observation/result).
-Forward resistance, RF = ΔVAK / ΔIAK, to be obtained from the slope of the appropriate portion of the plotted characteristic.
-10. RESULT
-The V-I characteristics of the SCR have been studied and plotted.
-Forward breakover voltage, VBO = 11.5 V.
-Holding voltage, VH = 0.72 V.
-Holding current, IH = 12.4 mA.
+10. CIRCUIT DIAGRAM:
+<img width="1103" height="250" alt="WhatsApp Image 2026-11-26 at 10 41 25 AM" src="https://github.com/user-attachments/assets/5a2c6a49-3c5c-4728-8bdb-5d4569c7851d" />
 
+OUTPUT GRAPH:
+<img width="1116" height="300" alt="WhatsApp Image 2026-11-26 at 10 41 35 AM" src="https://github.com/user-attachments/assets/021bab89-dbaa-4af5-a09b-fc13cdce6681" />
+
+
+	
+	
+
+
+12. RESULT
+The V-I characteristics of the SCR have been studied and plotted.
